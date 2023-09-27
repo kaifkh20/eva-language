@@ -1,0 +1,4 @@
+(var x 10)
+(set x 19)
+(set x (+ x 10))
+(print x)
