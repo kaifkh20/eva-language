@@ -15,3 +15,4 @@ Eva includes a number of features that make it a powerful and easy-to-use progra
   <li>Loops: Eva includes a variety of loop constructs, such as while loops and for loops.</li>
   <li>Objects: Eva supports objects, which allow you to encapsulate data and functionality.</li>
 </ul>
+<h2>Run the test command using ``node --test``</h2>
